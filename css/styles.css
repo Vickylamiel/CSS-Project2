@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#main-container{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #fa8072;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 80px;
+    color: #fff;
+}
+
+.first-text{
+    text-decoration: underline;
+    line-height: 1.2;
+}
+
+.second-text{
+    text-decoration: underline;
+    line-height: 1.2;
+}
